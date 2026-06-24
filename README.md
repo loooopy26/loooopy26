@@ -1,49 +1,66 @@
-# 💫 loooopy26's GitHub Profile README (Theme A: Deep Dark & Neon)
+# 🎮 loooopy26's GitHub Profile (Retro Game Theme)
 
-<!-- 상단 애니메이션 배너 (Capsule Render) -->
+<!-- 레트로 8비트 폰트 타이핑 배너 (Press Start 2P 폰트 사용) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&theme=tokyonight&height=220&section=header&text=Hello,%20I'm%20loooopy26!&fontSize=50&animation=fadeIn" alt="header banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=3000&pause=1000&color=793AF9&center=true&vCenter=true&width=600&height=70&lines=HELLO+WORLD%21;WELCOME+TO+MY+LOBBY;I%27M+LOOOOPY26" alt="Retro Typing Banner" />
 </p>
 
-<!-- 방문자 수 카운터 (Hits) -->
+<!-- 기존 Hits 배너의 끊김 현상을 방지하는 레트로 전광판 스타일의 카운터 -->
 <p align="center">
-  <a href="https://github.com/loooopy26">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Floooopy26&count_bg=%23793AF9&title_bg=%231f2328&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false" alt="Hits" />
-  </a>
+  <img src="https://img.shields.io/badge/LOBBY_VISITORS-793AF9?style=flat-square" alt="Lobby Visitors Label" />
+  <img src="https://profile-counter.glitch.me/loooopy26/count.svg" height="20" alt="Visitor Count" />
 </p>
 
 ---
 
-### 💫 About Me
-안녕하세요! 사용자 경험과 생산성 향상을 고민하는 프론트엔드 개발자 **loooopy26**입니다.
+### 👾 Character Status
 
-- 🛠️ **[PlanFlow](https://github.com/loooopy26/PlanFlow)**: 효율적인 일정 관리 및 계획 조율 프로젝트를 개발하고 있습니다.
-- ✍️ **[devlog](https://github.com/loooopy26/devlog)**: 학습 내용과 개발 여정을 기록하는 개인 블로그/개발로그를 구축하고 있습니다.
-- 📫 Contact: [Hyewooon826@gmail.com](mailto:Hyewooon826@gmail.com)
+```text
+🎮 [SYSTEM: PROFILE INITIALIZED...]
+
+LOOOOPY26 (LEVEL 26) - FRONTEND WIZARD
+┌────────────────────────────────────────────────────────┐
+│  NAME     : loooopy26 (Hyemon)                         │
+│  CLASS    : Frontend Developer / React Sorcerer        │
+│  GUILD    : Team PlanFlow                              │
+│  HP       : [████████████████████████] 100 / 100       │
+│  MP       : [██████████████████░░░░░░]  75 / 100       │
+├────────────────────────────────────────────────────────┤
+│  EQUIPPED ITEMS                                        │
+│  - ⌨️ [Legendary] Mechanical Keyboard of Rapid Typing  │
+│  - 🖱️ [Rare] Wireless Mouse of High Precision Cursor  │
+│  - 💻 [Epic] Laptop of Infinite Devlog Compiling      │
+├────────────────────────────────────────────────────────┤
+│  CURRENT QUESTS                                        │
+│  - ⚔️ [MAIN] Refactoring index.css in 'devlog'         │
+│  - 🛡️ [SUB] Polishing 'PlanFlow' scheduler UX           │
+│  - 💎 [DAILY] Committing code & Growing Green Grass    │
+└────────────────────────────────────────────────────────┘
+```
 
 ---
 
-### 🛠️ Tech Stack
+### ⚔️ Inventory (Tech Stack)
 
-#### 💻 Frontend
+#### 💻 Frontend Abilities
 <p align="left">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-#### 🔧 Tools & Platforms
+#### 🔧 Tools
 <p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 System Log (GitHub Stats)
 
 <p align="center">
   <!-- 나의 깃허브 능력치 카드 -->
