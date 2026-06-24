@@ -1,66 +1,49 @@
-# 🎮 loooopy26's GitHub Profile (Retro Game Theme)
+# 💫 loooopy26's GitHub Profile README (Theme A: Deep Dark & Neon)
 
-<!-- 레트로 8비트 폰트 타이핑 배너 (Press Start 2P 폰트 사용) -->
+<!-- 상단 파스텔 3D 배너 이미지 (SVG 오버레이 방식) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=3000&pause=1000&color=793AF9&center=true&vCenter=true&width=600&height=70&lines=HELLO+WORLD%21;WELCOME+TO+MY+LOBBY;I%27M+LOOOOPY26" alt="Retro Typing Banner" />
+  <img src="./banner.svg" alt="loooopy26's Banner" width="100%" />
 </p>
 
-<!-- 기존 Hits 배너의 끊김 현상을 방지하는 레트로 전광판 스타일의 카운터 -->
+<!-- 방문자 수 카운터 (안정적인 Shields.io 스타일의 뷰 카운터) -->
 <p align="center">
-  <img src="https://img.shields.io/badge/LOBBY_VISITORS-793AF9?style=flat-square" alt="Lobby Visitors Label" />
-  <img src="https://profile-counter.glitch.me/loooopy26/count.svg" height="20" alt="Visitor Count" />
+  <a href="https://github.com/loooopy26">
+    <img src="https://komarev.com/ghpvc/?username=loooopy26&color=793af9&style=flat-square&label=views" alt="Views" />
+  </a>
 </p>
 
 ---
 
-### 👾 Character Status
+### 💫 About Me
+안녕하세요! 사용자 경험과 생산성 향상을 고민하는 프론트엔드 개발자 **loooopy26**입니다.
 
-```text
-🎮 [SYSTEM: PROFILE INITIALIZED...]
-
-LOOOOPY26 (LEVEL 26) - FRONTEND WIZARD
-┌────────────────────────────────────────────────────────┐
-│  NAME     : loooopy26 (Hyemon)                         │
-│  CLASS    : Frontend Developer / React Sorcerer        │
-│  GUILD    : Team PlanFlow                              │
-│  HP       : [████████████████████████] 100 / 100       │
-│  MP       : [██████████████████░░░░░░]  75 / 100       │
-├────────────────────────────────────────────────────────┤
-│  EQUIPPED ITEMS                                        │
-│  - ⌨️ [Legendary] Mechanical Keyboard of Rapid Typing  │
-│  - 🖱️ [Rare] Wireless Mouse of High Precision Cursor  │
-│  - 💻 [Epic] Laptop of Infinite Devlog Compiling      │
-├────────────────────────────────────────────────────────┤
-│  CURRENT QUESTS                                        │
-│  - ⚔️ [MAIN] Refactoring index.css in 'devlog'         │
-│  - 🛡️ [SUB] Polishing 'PlanFlow' scheduler UX           │
-│  - 💎 [DAILY] Committing code & Growing Green Grass    │
-└────────────────────────────────────────────────────────┘
-```
+- 🛠️ 현재 **[PlanFlow](https://github.com/loooopy26/PlanFlow)** 프로젝트를 개발하고 있습니다.
+- ✍️ 배운 것을 기록하는 **[Personal Devlog](https://github.com/loooopy26/devlog)**를 운영 중입니다.
+- 📫 문의 및 연락: [Hyewooon826@gmail.com](mailto:Hyewooon826@gmail.com)
 
 ---
 
-### ⚔️ Inventory (Tech Stack)
+### 🛠️ Tech Stack
 
-#### 💻 Frontend Abilities
+#### 💻 Frontend
 <p align="left">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-#### 🔧 Tools
+#### 🔧 Tools & Platforms
 <p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
 ---
 
-### 📊 System Log (GitHub Stats)
+### 📊 GitHub Stats
 
 <p align="center">
   <!-- 나의 깃허브 능력치 카드 -->
