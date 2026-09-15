@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Pretendard&weight=600&size=28&duration=3000&pause=800&color=3182F6&center=true&vCenter=true&width=560&lines=Backend+%26+Data;Hi%2C+I'm+HyeWon+%F0%9F%91%8B;Kangwon+National+Univ." alt="Typing SVG" />
+
 
 <br/>
 
