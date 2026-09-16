@@ -1,41 +1,56 @@
-<!-- 배너 이미지를 assets/banner.png (또는 .gif) 로 올리면 됨 -->
-<p align="center">
-  <img src="./assets/banner.png" width="100%" alt="banner"/>
-</p>
+<div align="center">
+
+### 🛠️ Tech Stack
+
+<table align="center">
+  <tr>
+    <td align="center"><b>Language</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Frontend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+      <img src="https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Backend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+      <img src="https://img.shields.io/badge/REST%20API-informational?style=for-the-badge"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Infra</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,ts,py,django,react,tailwind,docker,kubernetes&theme=dark&perline=9" alt="tech stack"/>
-</p>
+### 📊 Language Stats
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=loooopy26&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=loooopy26&theme=github_dark"/>
 
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/loooopy26/loooopy26/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/loooopy26/loooopy26/output/github-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/loooopy26/loooopy26/output/github-snake-dark.svg" width="100%"/>
-</picture>
+### 📁 Projects
 
-<br/>
+<a href="https://github.com/loooopy26/PlanFlow"><img src="https://img.shields.io/badge/PlanFlow-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a>
+<a href="https://github.com/loooopy26/ForeStudy"><img src="https://img.shields.io/badge/ForeStudy-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a>
+<a href="https://github.com/loooopy26/menu_bot"><img src="https://img.shields.io/badge/menu__bot-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
+<a href="https://github.com/loooopy26/algorithm-study"><img src="https://img.shields.io/badge/algorithm--study-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-<p align="center">
-  <img src="./profile-3d-contrib/profile-night-view.svg" width="100%" alt="3d contribution"/>
-</p>
-
-<br/>
-
-### Projects
-
-<p align="center">
-  <a href="https://github.com/loooopy26/PlanFlow"><img src="https://img.shields.io/badge/PlanFlow-181717?style=for-the-badge&logo=github&logoColor=white" height="32"/></a>
-  <a href="https://github.com/loooopy26/ForeStudy"><img src="https://img.shields.io/badge/ForeStudy-181717?style=for-the-badge&logo=github&logoColor=white" height="32"/></a>
-  <a href="https://github.com/loooopy26/menu_bot"><img src="https://img.shields.io/badge/menu__bot-181717?style=for-the-badge&logo=github&logoColor=white" height="32"/></a>
-  <a href="https://github.com/loooopy26/algorithm-study"><img src="https://img.shields.io/badge/algorithm--study-181717?style=for-the-badge&logo=github&logoColor=white" height="32"/></a>
-</p>
-
-<br/>
-
-<p align="center">
-  <a href="https://velog.io/@hyeeemon08/posts"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white" height="28"/></a>
-</p>
+</div>
